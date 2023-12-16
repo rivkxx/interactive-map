@@ -36,3 +36,7 @@ You can customize the map by adjusting the following in the `index.html` file:
 - **Map Location and Zoom Level:**
   ```javascript
   var map = L.map('map').setView([51.505, -0.09], 13);
+
+  <img width="589" alt="image" src="https://github.com/rivkxx/interactive-map/assets/81345344/2143b660-f3e5-4f9c-8c3d-58959efa668d">
+
+
